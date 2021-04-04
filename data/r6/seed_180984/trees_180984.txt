@@ -1,0 +1,29 @@
+INPUT: Sample size is now 8
+INPUT: Seq length is now 10000
+INPUT: Scaled mutation rate is now 4.8
+INPUT: Scaled recombination rate is now 0.8
+INPUT: Base pairs to track is 100
+INPUT: Random seed used is 180984
+DEBUG: Size at 0 is 0
+Debugging: 0
+
+Graph Builder begin
+Time for build prior tree: 119 seconds
+Tree:0,pos:0,len:3.85726,TMRCA:1.22555,ARG:,len:3.85726,TMRCA:1.22555
+iHistoryMax: 0
+Tree:1,pos:0.0515788,len:3.85726,TMRCA:1.22555,ARG:,len:3.85726,TMRCA:1.22555
+iHistoryMax: 1
+Tree:2,pos:0.186568,len:3.86102,TMRCA:1.22555,ARG:,len:3.86102,TMRCA:1.22555
+iHistoryMax: 2
+Tree:3,pos:0.555012,len:3.82436,TMRCA:1.22555,ARG:,len:3.82436,TMRCA:1.22555
+iHistoryMax: 3
+Tree:4,pos:0.942588,len:3.78805,TMRCA:1.22555,ARG:,len:3.78805,TMRCA:1.22555
+iHistoryMax: 4
+Tree:5,pos:0.990857,len:3.96861,TMRCA:1.31583,ARG:,len:3.96861,TMRCA:1.31583
+Completed the chromosome at position 1
+gcstarts:0 gcends:0 xovers:5
+Graphbuilder destructor
+Rand generator destructor
+Simulator destructor:
+Configuration destructor
+Program is complete

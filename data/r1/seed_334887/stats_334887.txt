@@ -1,0 +1,5 @@
+../macs 8 1e4 -T -t .00048 -r .00048 -h 1e2 -s 334887 2>trees_334887.txt | ../msformatter > haplotypes_334887.txt
+--------------------------- Iter no:334887
+Number of recombs: 12
+Number of sites: 26
+Number of Arbores sites: 26

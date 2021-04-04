@@ -1,0 +1,41 @@
+INPUT: Sample size is now 8
+INPUT: Seq length is now 10000
+INPUT: Scaled mutation rate is now 4.8
+INPUT: Scaled recombination rate is now 2.4
+INPUT: Base pairs to track is 100
+INPUT: Random seed used is 78656
+DEBUG: Size at 0 is 0
+Debugging: 0
+
+Graph Builder begin
+Time for build prior tree: 88 seconds
+Tree:0,pos:0,len:1.89072,TMRCA:0.56394,ARG:,len:1.89072,TMRCA:0.56394
+iHistoryMax: 0
+Tree:1,pos:0.142054,len:1.9687,TMRCA:0.56394,ARG:,len:1.9687,TMRCA:0.56394
+iHistoryMax: 1
+Tree:2,pos:0.177973,len:1.98286,TMRCA:0.56394,ARG:,len:1.98286,TMRCA:0.56394
+iHistoryMax: 2
+Tree:3,pos:0.252327,len:2.48317,TMRCA:0.814094,ARG:,len:2.48317,TMRCA:0.814094
+iHistoryMax: 3
+Tree:4,pos:0.313573,len:4.81297,TMRCA:1.97899,ARG:,len:4.81297,TMRCA:1.97899
+iHistoryMax: 4
+Tree:5,pos:0.385094,len:6.79876,TMRCA:2.97189,ARG:,len:6.79876,TMRCA:2.97189
+iHistoryMax: 5
+Tree:6,pos:0.391043,len:6.83464,TMRCA:2.97189,ARG:,len:6.83464,TMRCA:2.97189
+iHistoryMax: 6
+Tree:7,pos:0.402171,len:6.83464,TMRCA:2.97189,ARG:,len:6.83464,TMRCA:2.97189
+iHistoryMax: 7
+Tree:8,pos:0.472886,len:6.83464,TMRCA:2.97189,ARG:,len:6.83464,TMRCA:2.97189
+iHistoryMax: 8
+Tree:9,pos:0.588595,len:6.82968,TMRCA:2.97189,ARG:,len:6.82968,TMRCA:2.97189
+iHistoryMax: 9
+Tree:10,pos:0.863446,len:6.82968,TMRCA:2.97189,ARG:,len:6.82968,TMRCA:2.97189
+iHistoryMax: 10
+Tree:11,pos:0.983821,len:6.82968,TMRCA:2.97189,ARG:,len:6.82968,TMRCA:2.97189
+Completed the chromosome at position 1
+gcstarts:0 gcends:0 xovers:11
+Graphbuilder destructor
+Rand generator destructor
+Simulator destructor:
+Configuration destructor
+Program is complete
