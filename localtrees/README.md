@@ -1,6 +1,6 @@
 # Localtrees
 
-The name of all directories start with r, and the following number indicates the corresponding $\lambda$ value.
+The name of all directories start with r, and the following number indicates the corresponding λ value.
 
 Each directory contains 4 sub-directories:
 
